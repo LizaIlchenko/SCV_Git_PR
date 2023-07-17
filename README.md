@@ -68,3 +68,4 @@ origin
 $ git remote add pb https://github.com/paulboone/ticgit
 $ git remote -v
 ```
+Для переименования удалённого репозитория можно выполнить `git remote rename`.
